@@ -1,0 +1,215 @@
+\documentclass[a4paper]{llncs}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{longtable}
+\usepackage{multicol}
+\newcommand{\tocTitle}[2]{\protect\contentsline{title}{#1}{#2}}
+\newcommand{\tocAuthors}[1]{{\raggedright \leftskip 15pt \rightskip 2.55em\itshape #1\endgraf}}
+\newcommand{\tocSection}[1]{\subsection*{#1}}
+\pagestyle{empty}
+%\pagenumbering{roman}
+\begin{document}
+\vspace*{2cm}
+\centerline{\huge \bf AITP 2022}\vspace{3cm}
+\centerline{\Large \bf Seventh Conference on}\vspace{3mm}
+\centerline{\Large \bf Artificial Intelligence and Theorem Proving}\vspace{5cm}
+\centerline{\Large \bf Abstracts of the Talks}\vspace{3cm}
+\centerline{\large \bf September 4--9, 2022, Aussois, France}
+\clearpage
+\section*{Preface}
+
+This volume contains the abstracts of the talks presented at AITP
+2022: Seventh Conference on Artificial Intelligence and Theorem
+Proving held September 4--9, 2022 in Aussois, France.
+
+This year AITP has been co-located with a meeting of Working Group 5 of
+Cost Action European Research Network on Formal Proofs. We thank
+Frédéric Blanqui and the Cost Action CA20111 for covering the local organizer
+costs for the events, as well as supporting the travel and accommodation
+of 16 of the participants.
+
+We are organizing AITP because we believe that large-scale semantic
+processing and strong computer assistance of mathematics and science
+is our inevitable future. New combinations of AI and reasoning methods
+and tools deployed over large mathematical and scientific corpora will
+be instrumental to this task. We hope that the AITP conference will
+become the forum for discussing how to get there as soon as possible,
+and the force driving the progress towards that.  AITP 2022 consists
+of several sessions discussing connections between modern AI, ATP, ITP
+and (formal) mathematics. The sessions are discussion oriented and
+based on 30 contributed talks.
+
+We would like to thank the CNRS conference center in Aussois for hosting AITP 2022.
+Many thanks also to Andrei Voronkov and his EasyChair for their support with paper reviewing and
+proceedings creation.  The conference was partly funded from the
+European Research Council (ERC) under the EU-H2020 project SMART
+(no. 714034), and the Czech project
+AI\&Reasoning CZ.02.1.01/0.0/0.0/15003/0000466 and the European
+Regional Development Fund.  Finally, we are grateful to all the
+speakers, participants and PC members for their interest in discussing
+and pushing forward these exciting topics!
+
+\begin{flushright}
+  \noindent October 2022\hfill
+Michael Douglas\\
+Thomas Hales\\
+Cezary Kaliszyk\\
+Stephan Schulz\\
+Josef Urban
+\end{flushright}
+
+\clearpage
+
+\section*{Program Committee}
+\begin{longtable}{p{0.5\textwidth}p{0.5\textwidth}}
+Ulrich Furbach   	&University of Koblenz\\
+Thibault Gauthier	&Czech Technical University in Prague\\
+Sean Holden     	&University of Cambridge\\
+Mikoláš Janota   	&University of Lisbon\\
+Michael Kinyon   	&University of Denver\\
+Peter Koepke    	&University of Bonn\\
+Michael Kohlhase	&FAU Erlangen-Nürnberg\\
+Konstantin Korovin	&The University of Manchester\\
+Ramana Kumar    	&DeepMind\\
+Adam Pease      	&Articulate Software\\
+Michael Rawson   	&TU Wien\\
+Christian Szegedy	&Google Research\\
+Sean Welleck     	&University of Washington\\
+Sarah Winkler    	&University of Bolzano\\
+Zsolt Zombori   	&Alfréd Rényi Institute of Mathematics\\
+\end{longtable}
+
+\section*{Additional Reviewers}
+\begin{multicols}{2}
+  \noindent
+  Jan Hula \\
+  Karol P\k{a}k
+\end{multicols}
+
+\clearpage
+
+\section*{Invited Talks}
+
+\begin{description}
+\item[João Araújo] \phantom{.}\\
+  Forbidden Substructure Theorems\\
+\item[Johannes Brandstetter] \phantom{.}\\
+  How GNNs and Symmetries can help to solve PDEs\\
+\item[Kevin Buzzard] \phantom{.}\\
+  Formalizing Fermat\\
+\item[Walter Dean and Alberto Naibo] \phantom{.}\\
+  Mathematical difficulty, SAT solvers, and bounded arithmetic\\
+\item[Ben Goertzel] \phantom{.}\\
+  The Role of Automated Theorem-Proving in Neural-Symbolic Approaches to Artificial General Intelligence\\
+\item[Michael Rawson] \phantom{.}\\
+  ML4ATP: What I Wish I Had Known 5 Years Ago\\
+\item[Talia Ringer] \phantom{.}\\
+  Concrete Problems in Proof Automation	\\
+\item[Stephen Wolfram] \phantom{.}\\
+  Theorem Proving in Metamathematics, the Universe and More
+\end{description}
+
+  \clearpage
+
+\section*{Table of Contents}
+  \tocTitle{Reinforcement Learning for Schedule Optimization}{8}
+  \tocAuthors{Nikolai Antonov, Jan Hůla, Mikoláš Janota, and Přemysl Šůcha}
+
+  \tocTitle{Proving theorems using Incremental Learning and Hindsight Experience Replay}{11}
+  \tocAuthors{E. Aygun, L. Orseau, A. Anand, X. Glorot, S. Mcaleer, V. Firoiu, L. Zhang, D. Precup and S. Mourad}
+
+  \tocTitle{Project Proposal: Efficient Neural Clause Selection by Weight}{24}
+  \tocAuthors{Filip Bártek and Martin Suda}
+
+  \tocTitle{A Parallel Corpus of Natural Language and Isabelle Artefacts}{28}
+  \tocAuthors{Anthony Bordg, Yiannos A. Stathopoulos, and Lawrence C. Paulson}
+
+  \tocTitle{Strategies and Machine Learning for Lash}{31}
+  \tocAuthors{Chad E. Brown, Jan Jakubuv, and Cezary Kaliszyk}
+
+  \tocTitle{Embedding SUMO into Set Theory}{34}
+  \tocAuthors{Chad Brown, Adam Pease, and Josef Urban}
+
+  \tocTitle{Analyzing Proof Components}{42}
+  \tocAuthors{Karel Chvalovský and Josef Urban}
+
+  \tocTitle{Scaling Naproche}{45}
+  \tocAuthors{Adrian De Lon and Peter Koepke}
+
+  \tocTitle{Towards neuro-symbolic conjecturing}{48}
+  \tocAuthors{Sólrún Halla Einarsdóttir, Moa Johansson, and Nicholas Smallbone}
+
+  \tocTitle{Program Synthesis from Integer Sequences: Initial Self-Learning Run on the OEIS}{52}
+  \tocAuthors{Thibault Gauthier}
+  
+  \tocTitle{Project Proposal: Formal Ethics Ontology in SUMO}{55}
+  \tocAuthors{Zarathustra Amadeus Goertzel, Adam Pease, and Josef Urban}
+
+  \tocTitle{LightGBM Hyperparameter Optimization for Clause Classification in Theorem Proving}{61}
+  \tocAuthors{Zarathustra Amadeus Goertzel, Jan Jakubův, Mikoláš Janota, and Cezary Kaliszyk}
+
+  \tocTitle{A Corpus for Precise Natural Language Inference}{64}
+  \tocAuthors{Adrian Groza}
+
+  \tocTitle{LISA: Towards a Foundational Theorem Prover}{66}
+  \tocAuthors{Simon Guilloud , Florian Cassayre, Viktor Kunčak}
+  
+  \tocTitle{Model Discovery for Efficient Search}{69}
+  \tocAuthors{Jan Hůla and Mikoláš Janota}
+
+  \tocTitle{Selecting Quantifiers for Instantiation in SMT}{72}
+  \tocAuthors{Mikoláš Janota, Jelle Piepenbrock, and Bartosz Piotrowski}
+
+  \tocTitle{Learning plausible and useful conjectures}{75}
+  \tocAuthors{Albert Q. Jiang, Wenda Li, and Mateja Jamnik}
+
+  \tocTitle{Exploring Representation of Horn Clauses using GNNs}{80}
+  \tocAuthors{Chencheng Liang, Philipp Rümmer, and Marc Brockschmidt}
+
+  \tocTitle{Using machine learning to detect non-triviality of knots via colorability of knot diagrams}{84}
+  \tocAuthors{Alexei Lisitsa and Alexei Vernitski}
+
+  \tocTitle{Reinforcement Learning in E}{88}
+  \tocAuthors{Jack McKeown and Geoff Sutcliffe}
+
+  \tocTitle{Evolutionary Computation for Program Synthesis in SuSLik}{91}
+  \tocAuthors{Yutaka Nagashima}
+
+  \tocTitle{Project Proposal: Learning Variable Mappings to Repair Programs}{94}
+  \tocAuthors{Pedro Orvalho, Jelle Piepenbrock, Mikoláš Janota, and Vasco Manquinho}
+
+  \tocTitle{Synthetic Proof Term Data Augmentation for Theorem Proving with Language Models}{99}
+  \tocAuthors{Joseph Palermo, Johnny Ye, and Jesse Michael Han}
+
+  \tocTitle{Learning Instantiation in First-Order Logic}{103}
+  \tocAuthors{Jelle Piepenbrock, Josef Urban, Konstantin Korovin, Miroslav Olšák, Tom Heskes, and Mikoláš Janota}
+
+  \tocTitle{A small survey of mathematical abilities of modern transformer architectures}{106}
+  \tocAuthors{Bartosz Piotrowski}
+
+  \tocTitle{Sifting through a large hypothesis space: Revisiting differentiable learning through satisfiability}{109}
+  \tocAuthors{Stanislaw J. Purgał, David M. Cerna, and Cezary Kaliszyk}
+
+  \tocTitle{Project proposal: A modular reinforcement learning based automated theorem prover}{112}
+  \tocAuthors{Boris Shminke}
+
+  \tocTitle{Elements of Reinforcement Learning in Saturation-based Theorem Proving}{118}
+  \tocAuthors{Martin Suda}
+
+  \tocTitle{Formal Premise Selection With Language Models}{122}
+  \tocAuthors{Szymon Tworkowski, Maciej Mikula, Tomasz Odrzygóźdź, Konrad Czechowski, Szymon Antoniak, Albert Q. Jiang, Christian Szegedy, Lukasz Kuciński, Piotr Miloś, and Yuhuai Wu}
+
+  \tocTitle{NaturalProver: Grounded Natural Language Proof Generation with Language Models}{129}
+  \tocAuthors{Sean Welleck, Jiacheng Liu, Ximing Lu, Hannaneh Hajishirzi, Yejin Choi}
+
+  \tocTitle{Compressed Combinatory Proof Structures and Blending Goal- with Axiom-Driven Reasoning: Perspectives for First-Order ATP with Condensed Detachment and Clausal Tableaux}{132}
+  \tocAuthors{Christoph Wernhard}
+
+  \tocTitle{Autoformalization for Neural Theorem Proving}{137}
+  \tocAuthors{Yuhuai Wu, Albert Jiang, Wenda Li, Markus N. Rabe, Charles Staats,
+Mateja Jamnik, and Christian Szegedy}
+
+  \tocTitle{Tactic Characterizations by the Influences on Proof States}{141}
+  \tocAuthors{Liao Zhang and Lasse Blaauwbroek}
+
+  \end{document}

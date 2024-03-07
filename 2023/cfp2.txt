@@ -1,0 +1,131 @@
+SECOND CALL FOR CONTRIBUTIONS
+
+Artificial Intelligence and Theorem Proving,
+AITP 2023
+September 3-8, 2023, Aussois, France
+
+http://aitp-conference.org/2023
+
+Deadline: May 5, 2023
+https://easychair.org/conferences/?conf=aitp2023
+
+BACKGROUND
+Large-scale semantic processing and strong computer assistance of
+mathematics and science is our inevitable future. New combinations of
+AI and reasoning methods and tools deployed over large mathematical
+and scientific corpora will be instrumental to this task.  The AITP
+conference is the forum for discussing how to get there as soon as
+possible, and the force driving the progress towards that.
+
+TOPICS
+
+- AI, machine learning and big-data methods in theorem proving and mathematics.
+- Collaboration between automated and interactive theorem proving, in
+  particular their AI/ML aspects.
+- Common-sense reasoning and reasoning in science, relations to general AI.
+- Alignment and joint processing of formal, semi-formal, and informal
+   libraries, Formal Abstracts.
+- Methods for large-scale computer understanding of mathematics and science.
+- Combinations of linguistic/learning-based and semantic/reasoning methods
+- Formal verification of AI and machine learning algorithms, explainable AI .
+ 
+SESSIONS
+
+There will be several focused sessions on AI for ATP, ITP, mathematics,
+relations to general AI, Formal Abstracts, linguistic processing of
+mathematics/science, modern AI and big-data methods, and several
+sessions with contributed talks. The focused sessions will be based on
+invited talks and discussion oriented.
+
+CONFIRMED PARTICIPANTS/SPEAKERS (TBC)
+
+João Araújo, Universidade Nova de Lisboa
+Walter Dean, University of Warwick
+Michael R. Douglas, Stony Brook University
+Thibault Gauthier, Czech Technical University in Prague
+Ben Goertzel, SingularityNET
+John Harrison, Amazon
+Sean Holden, University of Cambridge
+Mikoláš Janota, University of Lisbon
+Moa Johansson, Chalmers University
+Cezary Kaliszyk, University of Innsbruck
+Konstantin Korovin, The University of Manchester
+Tomáš Mikolov, Czech Technical University in Prague
+Alberto Naibo, University Paris 1
+Miroslav Olsak, IHES
+J.D. Phillips, Northern Michigan University
+Michael Rawson, TU Wien, Austria
+Stephan Schulz, DHBW Stuttgart
+Martin Suda, Czech Technical University in Prague
+Christian Szegedy, Google Research
+Josef Urban, Czech Technical University in Prague
+Zsolt Zombori, Alfréd Rényi Institute of Mathematics
+
+
+CONTRIBUTED TALKS
+We solicit contributed talks. Selection of those will be based on
+extended abstracts/short papers of 2 pages formatted with easychair.cls.
+Submission is via EasyChair (https://easychair.org/conferences/?conf=aitp2023).
+The extended abstracts are considered non-archival.
+
+
+DATES
+Submission deadline: May 5, 2023
+Author notification: June 20, 2023
+Conference registration: TBA
+Camera-ready versions: TBA
+Conference: September 3-8, 2023
+
+
+SPECIAL AITP TRACK AT TABLEAUX'23
+
+There will be a special AITP track at TABLEAUX'23
+(http://tableaux2023.tableaux-ar.org/), welcoming full papers.
+
+
+PROGRAM COMMITTEE (TBC)
+
+Jasmin Christian Blanchette, INRIA Nancy
+Michael R. Douglas (co-chair), Stony Brook University
+Ulrich Furbach, University of Koblenz
+Thibault Gauthier, Czech Technical University in Prague
+Thomas C. Hales (co-chair), University of Pittsburgh
+Sean Holden, University of Cambridge
+Mikoláš Janota, University of Lisbon
+Cezary Kaliszyk (co-chair), University of Innsbruck
+Michael Kinyon, University of Denver
+Michael Kohlhase, FAU Erlangen-Nürnberg
+Konstantin Korovin, The University of Manchester
+Adam Pease, Articulate Software
+Michael Rawson, TU Wien
+Stephan Schulz (co-chair), DHBW Stuttgart
+Christian Szegedy, Google Research
+Josef Urban (co-chair), Czech Technical University in Prague
+Sean Welleck, University of Washington
+Zsolt Zombori, Alfréd Rényi Institute of Mathematics
+
+
+LOCATION AND PRICE
+
+The conference will take place from September 3 to September 8 2023
+in the CNRS Paul-Langevin Conference Center
+(https://www.caes.cnrs.fr/sejours/centre-paul-langevin/) located in
+the mountain village of Aussois in Savoy.  Dominated by the "Dent
+Parrachée", one of the highest peaks of La Vanoise, Aussois is located
+on a sunny plateau at 1500 m altitude, offering a magnificent panorama
+of the surrounding mountains and a direct access to the park of La
+Vanoise in summer and downhill ski slopes or cross country slopes in
+winter. The total price for accommodation, food and registration for
+the five days will be around 600 EUR.
+
+ARRIVAL/DEPARTURE
+Aussois is less than 2h from the airports of Lyon, Geneve, Chambery,
+Annecy, Grenoble and Turin. There are trains and buses from these
+airports. Aussois is 7km from the Modane TGV station with direct
+trains from/to Paris. We will organize a bus for the participants from
+there to Aussois. Further buses to these airports / station can be
+found at http://www.altibus.com/ .
+
+ORGANIZERS
+Cezary Kaliszyk and Josef Urban
+

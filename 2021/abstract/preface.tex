@@ -1,0 +1,194 @@
+\documentclass[a4paper]{llncs}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{longtable}
+\usepackage{multicol}
+\newcommand{\tocTitle}[2]{\protect\contentsline{title}{#1}{#2}}
+\newcommand{\tocAuthors}[1]{{\raggedright \leftskip 15pt \rightskip 2.55em\itshape #1\endgraf}}
+\newcommand{\tocSection}[1]{\subsection*{#1}}
+\pagestyle{empty}
+%\pagenumbering{roman}
+\begin{document}
+\vspace*{2cm}
+\centerline{\huge \bf AITP 2021}\vspace{3cm}
+\centerline{\Large \bf Sixth Conference on}\vspace{3mm}
+\centerline{\Large \bf Artificial Intelligence and Theorem Proving}\vspace{5cm}
+\centerline{\Large \bf Abstracts of the Talks}\vspace{3cm}
+\centerline{\large \bf September 5--11, 2021, Aussois, France}
+\clearpage
+\section*{Preface}
+
+This volume contains the abstracts of the talks presented at AITP
+2021: Sixth Conference on Artificial Intelligence and Theorem
+Proving held September 5--11, 2021 in Aussois, France and streamed
+online.
+
+We are organizing AITP because we believe that large-scale semantic
+processing and strong computer assistance of mathematics and science
+is our inevitable future. New combinations of AI and reasoning methods
+and tools deployed over large mathematical and scientific corpora will
+be instrumental to this task. We hope that the AITP conference will
+become the forum for discussing how to get there as soon as possible,
+and the force driving the progress towards that.  AITP 2021 consists
+of several sessions discussing connections between modern AI, ATP, ITP
+and (formal) mathematics. The sessions are discussion oriented and
+based on 30 contributed talks.
+
+We would like to thank the CNRS conference center in Aussois for hosting AITP 2021.
+Many thanks also to Andrei Voronkov and his EasyChair for their support with paper reviewing and
+proceedings creation.  The conference was partly funded from the
+European Research Council (ERC) under the EU-H2020 project SMART
+(no. 714034), and the Czech project
+AI\&Reasoning CZ.02.1.01/0.0/0.0/15003/0000466 and the European
+Regional Development Fund.  Finally, we are grateful to all the
+speakers, participants and PC members for their interest in discussing
+and pushing forward these exciting topics!
+
+\begin{flushright}
+  \noindent September 2021\hfill
+Michael Douglas\\
+Cezary Kaliszyk\\
+Ramana Kumar\\
+Stephan Schulz\\
+Josef Urban
+\end{flushright}
+
+\clearpage
+
+\section*{Program Committee}
+\begin{longtable}{p{0.5\textwidth}p{0.5\textwidth}}
+
+Jasmin	Blanchette	& Vrije Universiteit Amsterdam\\
+Ulrich	Furbach	& University of Koblenz\\
+Thibault Gauthier	& Czech Technical University in Prague\\
+Thomas	Hales	& University of Pittsburgh \\
+Sean	Holden	& University of Cambridge \\
+Mikolas	Janota	& Czech Technical University in Prague\\
+Michael	Kinyon	& University of Denver\\
+Peter	Koepke	& University of Bonn\\
+Michael	Kohlhase	& FAU Erlangen-Nürnberg\\
+Konstantin Korovin	konstantin.& The University of Manchester\\
+Adam	Pease	& Infosys \\
+Geoff	Sutcliffe	& University of Miami\\
+Christian Szegedy	& Google\\
+Sarah	Winkler	& Free University of Bozen-Bolzano\\
+Yuhuai	Wu	& University of Toronto\\
+Zsolt	Zombori	& Hungarian Academy of Sciences\\
+\end{longtable}
+
+\section*{Additional Reviewers}
+\begin{multicols}{2}
+  \noindent
+Jan Frederik Schaefer\\
+Miroslav Olšák\\
+Stanisław Purgał\\
+Jannis Limperg\\
+Anne Baanen\\
+Jonas Betzendahl\\
+Jannis Limperg
+\end{multicols}
+
+\clearpage
+
+
+\section*{Table of Contents}
+  \tocTitle{Invited Talk: Interpretable Deep Learning for Physics via Symbolic Regression}{7}
+  \tocAuthors{Miles Cranmer}
+
+  \tocTitle{Invited Talk: ML applications to string theory}{8}
+  \tocAuthors{Fabian Ruhle}
+
+  \tocTitle{Invited Talk: Mathematics in the Scholarly Literature}{9}
+  \tocAuthors{Lucy Lu Wang}
+
+  \tocTitle{Project Proposal: Model-Based Optimization of Strategy Schedules}{10}
+  \tocAuthors{Filip Bártek and Martin Suda}
+
+  \tocTitle{ITP Automation in Practice: A User Study on Tactician}{13}
+  \tocAuthors{Lasse Blaauwbroek and Herman Geuvers}
+
+  \tocTitle{Characteristic Subsets of TPTP Benchmarks}{16}
+  \tocAuthors{Karel Chvalovský and Jan Jakubův}
+
+  \tocTitle{Learning Reasoning Components}{20}
+  \tocAuthors{Karel Chvalovský, Jan Jakubův, Miroslav Olšák, and Josef Urban}
+
+  \tocTitle{Creation of a modular proof assistant engine for a logic e-tutor}{25}
+  \tocAuthors{Jakub Dakowski, Aleksandra Draszewska, Barbara Adamska, Dominika Juszczak, Łukasz Abramowicz, and Robert Szymański}
+
+  \tocTitle{Dealing with Soft Types in Naproche’s Logical Backend}{28}
+  \tocAuthors{Adrian De Lon, Peter Koepke, and Anton Lorenzen}
+
+  \tocTitle{Handling Cryptomorphism in Proof Assistants and Automated Concept Formation}{30}
+  \tocAuthors{Floris van Doorn, Michael R. Douglas and David McAllester}
+
+  \tocTitle{Computer Verification for Historians of Philosophy}{32}
+  \tocAuthors{Landon D. C. Elkind}
+
+  \tocTitle{Mining counterexamples for wide-signature algebras with an Isabelle server}{36}
+  \tocAuthors{Wesley Fussner and Boris Shminke}
+
+  \tocTitle{Synthesis of Recursive Functions from Sequences of Natural Numbers}{39}
+  \tocAuthors{Thibault Gauthier}
+
+  \tocTitle{Parental Guidance in E}{42}
+  \tocAuthors{Zarathustra Amadeus Goertzel, Jan Jakubův, and Josef Urban}
+
+  \tocTitle{Contrastive finetuning of generative language models for informal premise selection}{46}
+  \tocAuthors{Jesse Michael Han, Tao Xu, Stanislas Polu, Arvind Neelakantan, and Alec Radford}
+
+  \tocTitle{Representing First-order Problems for Heuristic Selection}{50}
+  \tocAuthors{Edvard K. Holden and Konstantin Korovin}
+
+  \tocTitle{Towards Graph Neural Networks for SMT Portfolios}{54}
+  \tocAuthors{Jan Hůla, David Mojž\'{\i}šek, and Mikoláš Janota}
+
+  \tocTitle{Minimal Generating Sets in Magmas}{57}
+  \tocAuthors{Mikoláš Janota, António Morgado, and Petr Vojtěchovský}
+  
+  \tocTitle{Learning SMT Enumeration}{60}
+  \tocAuthors{Mikoláš Janota, Jelle Piepenbrock, and Bartosz Piotrowski}
+  
+  \tocTitle{LISA: Language models of ISAbelle proofs}{63}
+  \tocAuthors{Albert Qiaochu Jiang, Wenda Li, Jesse Michael Han, and Yuhuai Wu}
+  
+  \tocTitle{Ordering Subgoals in a Backward Chaining Prover}{66}
+  \tocAuthors{Gergő Csaba Kertész, Gergely Papp, Péter Szeredi, Dániel Varga, and Zsolt Zombori}
+  
+  \tocTitle{Designing a Theorem Prover for Reinforcement Learning and Neural Guidance}{70}
+  \tocAuthors{Jonathan Laurent and André Platzer}
+  
+  \tocTitle{(Auto)Complete this Proof: Decentralized Proof Generation via Smart Contracts}{74}
+  \tocAuthors{Jin Xing Lim, Barnabé Monnot, Georgios Piliouras, and Shaowei Lin}
+  
+  \tocTitle{Faster Smarter Proof by Induction in Isabelle/HOL with
+Definitional Quantifiers}{78}
+  \tocAuthors{Yutaka Nagashima}
+  
+  \tocTitle{A Corpus of Spatial Reasoning Problems}{81}
+  \tocAuthors{Adam Pease, Paulo Santos, and Alexandre Rademaker}
+  
+  \tocTitle{Learning Equational Theorem Proving}{84}
+  \tocAuthors{Jelle Piepenbrock, Tom Heskes, Mikoláš Janota, and Josef Urban}
+  
+  \tocTitle{Deep Learning for Temporal Logics}{87}
+  \tocAuthors{Frederik Schmitt, Christopher Hahn, Jens U. Kreber, Markus N. Rabe, and Bernd Finkbeiner}
+  
+  \tocTitle{A Closer Look at Successful Clause Derivations Through the Lens of Recursive Neural Networks}{92}
+  \tocAuthors{Martin Suda}
+  
+  \tocTitle{Dreaming to Prove}{96}
+  \tocAuthors{Kristóf Szabó and Zsolt Zombori}
+  
+  \tocTitle{Retrieval-Augmented Proof Step Synthesis}{100}
+  \tocAuthors{Christian Szegedy, Markus Rabe, and Henryk Michalewski}
+
+  \tocTitle{NaturalProofs: Mathematics meets Natural Language}{103}
+  \tocAuthors{Sean Welleck, Jiacheng Liu, Ronan Le Bras, Hannaneh Hajishirzi, Yejin Choi, and Kyunghyun Cho}
+
+  \tocTitle{Latent Action Space for Efficient Planning in Theorem Proving}{107}
+  \tocAuthors{Minchao Wu and Yuhuai Wu}
+
+  \tocTitle{Decision Trees for Tactic Prediction in Coq}{113}
+  \tocAuthors{Liao Zhang, Lasse Blaauwbroek, Bartosz Piotrowski, Cezary Kaliszyk, and Josef Urban}
+\end{document}

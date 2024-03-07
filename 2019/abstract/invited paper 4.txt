@@ -1,0 +1,21 @@
+Title: Is Meta-learning for Theorem-Proving One of the Keys to
+Artificial General Intelligence?
+
+Abstract: Within the class of cognitive architectures that leverage
+uncertain logical inference as a key tool for creating and evaluating
+knowledge and hypotheses, it appears a handful of hard technical
+issues stand between the state of the art and AGI at the human level
+or beyond.   One of these is neural-symbolic integration, i.e.
+efficiently and usefully translating between the representations of
+deep neural nets and other sub-symbolic pattern recognizers and
+logical formalisms.    Another is meta-learning for inference, i.e.
+inference guidance via recognizing patterns across previously done
+inferences, and via inductive, abductive and deductive inference based
+on these patterns.   I will describe some current work being done in
+the latter direction, within the OpenCog cognitive architecture, using
+a hypergraph pattern miner integrated with a probabilistic logic
+engine to recognize simple patterns among commonsense inferences.   I
+will also present some ideas about potential synergies between work on
+inference meta-learning for commonsense reasoning with an AGI goal,
+and work on meta-learning for reasoning in a more conventional
+automated-mathematics context.

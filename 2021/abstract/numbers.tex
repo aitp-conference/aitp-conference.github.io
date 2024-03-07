@@ -1,0 +1,16 @@
+\documentclass[12pt,a4paper]{article}
+\makeatletter
+\def\ps@myPS{%
+    \def\@oddfoot{}
+    \def\@evenfoot{\thepage}%
+    \def\@evenhead{\null\hfil\slshape\leftmark}%
+    \def\@oddhead{\null\hfill \tt \large Page \thepage}}
+\makeatother
+\usepackage{multido}
+\usepackage[hmargin=.8cm,vmargin=1.5cm,nohead,nofoot]{geometry}
+% \pagenumbering{gobble}
+\pagestyle{myPS}
+\begin{document}
+\multido{}{201}{\vphantom{x}\newpage}
+\end{document}
+

@@ -1,0 +1,12 @@
+Title: Formalizing Mathematics-In Praxis: First Experiences with Isabelle/HOL
+
+Abstract:
+This talk is an overview of my first year of Isabelle/HOL, working
+within the ALEXANDRIA project at the University of Cambridge, as a pure
+mathematician with no prior formalization experience.
+I give a summary of our work so far and I comment on some of the early
+difficulties I encountered, as my goal is to point out some suggestions
+that could make Isabelle more practical for current and future users as
+well as to share with new users several technical and conceptual
+observations that might prove to be helpful in their early learning
+stages.

@@ -1,0 +1,111 @@
+         SECOND CALL FOR CONTRIBUTIONS
+
+   Artificial Intelligence and Theorem Proving,
+                       AITP 2018
+        March 25-30, 2018, Aussois, France
+
+            http://aitp-conference.org/2018
+
+             Deadline: December 3, 2017
+ https://easychair.org/conferences/?conf=aitp2018
+
+BACKGROUND
+Large-scale semantic processing and strong computer assistance of
+mathematics and science is our inevitable future. New combinations of
+AI and reasoning methods and tools deployed over large mathematical
+and scientific corpora will be instrumental to this task.  The AITP
+conference is the forum for discussing how to get there as soon as
+possible, and the force driving the progress towards that.
+
+TOPICS
+    - AI, machine learning and big-data methods in theorem proving
+      and mathematics.
+    - Collaboration between automated and interactive theorem proving.
+    - Common-sense reasoning and reasoning in science.
+    - Alignment and joint processing of formal, semi-formal, 
+       and informal libraries.
+    - Methods for large-scale computer understanding of mathematics 
+       and science.
+    - Combinations of linguistic/learning-based and semantic/reasoning methods
+    - Formal verification of AI and machine learning algorithms, explainable AI .
+ 
+SESSIONS
+There will be several focused sessions on AI and machine learning for
+ATP, SMT, ITP and mathematics, a session on ATP/ITP Hammers, session
+on Formal Abstracts and natural language processing of mathematics,
+and several sessions with contributed talks. The focused sessions will
+be based on invited talks and discussion oriented.
+
+CONFIRMED PARTICIPANTS/SPEAKERS (to be completed)
+Noriko Arai, National Institute of Informatics
+Henk Barendregt, Radboud University Nijmegen
+Michael R. Douglas, Stony Brook University
+Cameron Freer, Remine
+Georges Gonthier, INRIA
+Thomas C. Hales, University of Pittsburgh
+John Harrison, Intel
+Sean Holden, University of Cambridge
+Mikoláš Janota, University of Lisbon
+Ramana Kumar, Data61 & UNSW
+Takuya Matsuzaki, Nagoya University
+David McAllester, Toyota Technological Institute at Chicago
+Christian Szegedy, Google Research
+Cesare Tinelli, University of Iowa
+
+INVITED TALKS (to be completed)
+Henk Barendregt, Axiomatizing consciousness, with applications
+John Harrison, Manifesto for type-free foundations based on set theory
+
+CONTRIBUTED TALKS
+We solicit contributed talks. Selection of those will be based on
+extended abstracts/short papers of 2 pages formatted with easychair.cls.
+Submission is via EasyChair (https://easychair.org/conferences/?conf=aitp2018).
+
+DATES
+Submission deadline: December 3, 2017
+Author notification: January 10, 2018
+Conference registration: January 24, 2018
+Camera-ready versions: January 31, 2018
+Conference: March 25-30, 2018
+
+POST-PROCEEDINGS
+We will consider an open call for post-proceedings in an established
+series of conference proceedings (LIPIcs, EPiC, JMLR) or a journal
+(AICom, JAR, JAIR).
+
+PROGRAM COMMITTEE (to be completed)
+David Aspinall, University of Edinburgh
+Jasmin Christian Blanchette, INRIA Nancy
+Joseph Corneli, University of Edinburgh
+Cameron Freer,  Remine
+Ulrich Furbach, University of Koblenz
+Thomas C. Hales (co-chair), University of Pittsburgh
+Sean Holden, University of Cambridge
+Geoffrey Irving, OpenAI
+Moa Johansson, Chalmers University
+Cezary Kaliszyk (co-chair), University of Innsbruck
+Michael Kohlhase, FAU Erlangen-Nürnberg
+Ramana Kumar, Data61 & UNSW
+Jens Otten, University of Oslo
+Stephan Schulz (co-chair), DHBW Stuttgart
+Dawn Song, University of California, Berkeley
+Martin Suda, Technische Universität Wien
+Geoff Sutcliffe, University of Miami
+Christian Szegedy, Google Research
+Josef Urban (co-chair), Czech Technical University in Prague
+
+LOCATION AND PRICE
+The conference will take place from March 25 to March 30 2018 in
+the CNRS Paul-Langevin Conference Center
+(https://www.caes.cnrs.fr/sejours/centre-paul-langevin/) located in
+the mountain village of Aussois in Savoy.  Dominated by the "Dent
+Parrachée", one of the highest peaks of La Vanoise, Aussois is located
+on a sunny plateau at 1500 m altitude, offering a magnificent panorama
+of the surrounding mountains and a direct access to the downhill ski
+slopes or cross country slopes in winter. The total price for accommodation,
+food and registration for the five days will be around 600 EUR.
+
+
+ORGANIZERS
+Cezary Kaliszyk and Josef Urban
+
