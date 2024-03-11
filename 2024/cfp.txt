@@ -37,16 +37,19 @@ mathematics/science, modern AI and big-data methods, and several
 sessions with contributed talks. The focused sessions will be based on
 invited talks and discussion oriented.
 
-CONFIRMED PARTICIPANTS/SPEAKERS (TBC)
+CONFIRMED PARTICIPANTS/SPEAKERS/PANELISTS (TBC)
 
 João Araújo, Universidade Nova de Lisboa
 Thibault Gauthier, Czech Technical University in Prague
+Ben Goertzel, SingularityNET
+Sean Holden, University of Cambridge
 Jan Jakubuv, Czech Technical University in Prague
 Mikoláš Janota, University of Lisbon
 Moa Johansson, Chalmers University
 Cezary Kaliszyk, University of Innsbruck
 Peter Koepke, University of Bonn
 Konstantin Korovin, The University of Manchester
+Tomáš Mikolov, Czech Technical University in Prague
 Miroslav Olsak, University of Cambridge
 J.D. Phillips, Northern Michigan University
 Michael Rawson, TU Wien, Austria
@@ -74,20 +77,23 @@ Conference: September 1-6, 2024
 
 PROGRAM COMMITTEE (TBC)
 
-Jasmin Christian Blanchette, INRIA Nancy
+Jasmin Christian Blanchette, LMU Munich
+David Cerna, Czech Academy of Sciences
 Michael R. Douglas (co-chair), Stony Brook University
+Ulrich Furbach, University of Koblenz
 Thibault Gauthier, Czech Technical University in Prague
 Thomas C. Hales, University of Pittsburgh
 Sean Holden, University of Cambridge
 Mikoláš Janota, University of Lisbon
+Moa Johansson, Chalmers University
 Cezary Kaliszyk (co-chair), University of Innsbruck
-Michael Kinyon, University of Denver
 Konstantin Korovin, The University of Manchester
+Mirek Olsak, University of Cambridge
+Bartosz Piotrowski, IDEAS NCBR
 Michael Rawson, TU Wien
 Stephan Schulz (co-chair), DHBW Stuttgart
+Martin Suda, Czech Technical University in Prague
 Josef Urban (co-chair), Czech Technical University in Prague
-Adam Vandervorst, SingularityNET
-Sean Welleck, University of Washington
 Zsolt Zombori, Alfréd Rényi Institute of Mathematics
 
 
