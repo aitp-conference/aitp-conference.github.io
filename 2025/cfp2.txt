@@ -1,0 +1,132 @@
+FINAL CALL FOR CONTRIBUTIONS - EXTENDED DEADLINE
+
+Artificial Intelligence and Theorem Proving,
+AITP 2025
+August 31 - September 5, 2025, Aussois, France
+
+http://aitp-conference.org/2025
+
+Deadline: Extended to May 12, 2025
+https://easychair.org/conferences/?conf=aitp2025
+
+BACKGROUND
+Large-scale semantic processing and strong computer assistance of
+mathematics and science is our inevitable future. New combinations of
+AI and reasoning methods and tools deployed over large mathematical
+and scientific corpora will be instrumental to this task.  The AITP
+conference is the forum for discussing how to get there as soon as
+possible, and the force driving the progress towards that.
+
+TOPICS
+
+- AI, machine learning and big-data methods in theorem proving and mathematics.
+- Collaboration between automated and interactive theorem proving, in
+  particular their AI/ML aspects.
+- Common-sense reasoning and reasoning in science, relations to general AI.
+- Alignment and joint processing of formal, semi-formal, and informal
+   libraries, Formal Abstracts.
+- Methods for large-scale computer understanding of mathematics and science.
+- Combinations of linguistic/learning-based and semantic/reasoning methods
+- Formal verification of AI and machine learning algorithms, explainable AI .
+ 
+
+SESSIONS
+
+There will be several focused sessions on AI for ATP, ITP,
+mathematics, relations to general AI (AGI), Formal Abstracts,
+linguistic processing of mathematics/science, modern AI and big-data
+methods, and several sessions with contributed talks. The focused
+sessions will be based on invited talks and discussion
+oriented. AITP'25 is planned as an in-person conference.
+
+
+CONFIRMED PARTICIPANTS/SPEAKERS/PANELISTS (TBC)
+
+João Araújo, Universidade Nova de Lisboa
+Michael R. Douglas, Stony Brook University
+Mario Carneiro, Chalmers University
+Thibault Gauthier, Czech Technical University in Prague
+Georges Gonthier, INRIA
+Thomas C. Hales, University of Pittsburgh
+Sean Holden, University of Cambridge
+Jan Jakubuv, Czech Technical University in Prague
+Mikoláš Janota, University of Lisbon
+Moa Johansson, Chalmers University
+Peter Koepke, University of Bonn
+Konstantin Korovin, The University of Manchester
+Michael Kinyon, University of Denver
+Miroslav Olsak, University of Cambridge
+Michael Rawson, University of Southampton, UK
+Stephan Schulz, DHBW Stuttgart
+Martin Suda, Czech Technical University in Prague
+Josef Urban, Czech Technical University in Prague
+Adam Vandervorst, Qoba.ai
+Petr Vojtěchovský, University of Denver
+Sean Welleck, Carnegie Mellon University
+Zsolt Zombori, Alfréd Rényi Institute of Mathematics
+
+
+CONTRIBUTED TALKS
+We solicit contributed talks. Selection of those will be based on
+extended abstracts/short papers of 2 pages formatted with easychair.cls.
+Submission is via EasyChair (https://easychair.org/conferences/?conf=aitp2025).
+The extended abstracts are considered non-archival.
+The contributed talks have to be presented in-person.
+
+
+DATES
+Submission deadline: Extended to May 12, 2025
+Author notification: June 20, 2025
+Conference registration: TBA
+Camera-ready versions: TBA
+Conference: August 31 - September 5, 2025
+
+
+PROGRAM COMMITTEE (TBC)
+
+Michael R. Douglas (co-chair), Stony Brook University
+Ulrich Furbach, University of Koblenz
+Thibault Gauthier, Czech Technical University in Prague
+Thomas C. Hales (co-chair), University of Pittsburgh
+Sean Holden, University of Cambridge
+Mikoláš Janota, University of Lisbon
+Moa Johansson, Chalmers University
+Cezary Kaliszyk (co-chair), University of Melbourne
+Michael Kinyon, University of Denver
+Konstantin Korovin, The University of Manchester
+Mirek Olsak, University of Cambridge
+Bartosz Piotrowski, IDEAS NCBR
+Michael Rawson, University of Southampton, UK
+Stephan Schulz (co-chair), DHBW Stuttgart
+Sho Sonoda, RIKEN AIP
+Martin Suda, Czech Technical University in Prague
+Josef Urban (co-chair), Czech Technical University in Prague
+Sean Welleck, Carnegie Mellon University
+Zsolt Zombori, Alfréd Rényi Institute of Mathematics
+
+
+LOCATION AND PRICE
+
+The conference will take place from August 31 to September 5 2025
+in the CNRS Paul-Langevin Conference Center
+(https://www.caes.cnrs.fr/sejours/centre-paul-langevin/) located in
+the mountain village of Aussois in Savoy.  Dominated by the "Dent
+Parrachée", one of the highest peaks of La Vanoise, Aussois is located
+on a sunny plateau at 1500 m altitude, offering a magnificent panorama
+of the surrounding mountains and a direct access to the park of La
+Vanoise in summer and downhill ski slopes or cross country slopes in
+winter. The total price for accommodation, food and registration for
+the five days will be around 600 EUR.
+
+ARRIVAL/DEPARTURE
+
+Aussois is less than 2h from the airports of Lyon, Geneve, Chambery,
+Annecy, Grenoble and Turin. There are trains and buses from these
+airports. Aussois is 7km from the Modane TGV station with direct
+trains from/to Paris. We will organize a bus for the participants from
+there to Aussois. Further buses to these airports / station can be
+found at http://www.altibus.com/ .
+
+ORGANIZERS
+Georges Gonthier, Cezary Kaliszyk and Josef Urban
+
