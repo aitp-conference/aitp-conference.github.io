@@ -1,0 +1,116 @@
+h0, h1, h2, h3, h4, h5 {
+  font-family: "Lucida Grande",Verdana,Lucida,Helvetica,Arial,sans-serif;
+}
+
+body {
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  margin: 0;
+  padding: 0;
+  background: #eee;
+}
+
+#container1 {
+  width: 95%;
+  height: 100%;
+  min-height: 100%;
+  margin: 0 auto 10px;
+  background: #fff;
+  text-align: left;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 7px 13px #888;
+  -moz-box-shadow: 3px 7px 13px #888;
+}
+
+#container2 {
+  width: 94%;
+  margin: 3%;
+  padding: 5px;
+  text-align: justify;
+}
+
+div#header {
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  top: 2px;
+  width: 100%;
+  color: white; /* white */
+//  text-shadow: #c0c0c0 5px 10px 10px;
+  min-height: 200px;
+  background: url(AusHiver047-1.jpg) center no-repeat;
+  opacity:1.5;
+  filter:alpha(opacity=150);
+  background-color: white;
+  -webkit-border-radius: 6px 6px 0px 0px;
+  -moz-border-radius: 6px 6px 0px 0px;
+  border-radius: 6px 6px 0px 0px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+hr {
+  border: 0;
+  border-bottom: 2px solid #F29400;
+}
+
+a {
+  color: #f29400;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5 {
+  font: 100% Palatino, Georgia, Verdana, Tahoma, Arial, sans-serif;
+  color: #2b5573;
+  margin: 0.5em 0 0.25em;
+  font-weight: bold;
+}
+
+h0 {
+  font: 100% Palatino, Georgia, Verdana, Tahoma, Arial, sans-serif;
+  color: #ffff1a;
+  margin: 0.5em 0 0.25em;
+  font-weight: bold;
+}
+
+
+h0 {
+    font-size: 24pt;
+}
+
+h1 {
+  font-size: 18pt;
+}
+h2 {
+  font-size: 17pt;
+}
+h3 {
+  font-size: 15pt;
+}
+h4 {
+  font-size: 14pt;
+}
+
+ul {
+  padding-left: 25px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+p {
+  width: 100%;
+  margin:0 0 15px;
+}
+
+#cent {
+  width: 100%;
+  text-align: center;
+}
