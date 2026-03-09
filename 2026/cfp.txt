@@ -42,7 +42,6 @@ oriented. AITP'26 is planned as an in-person conference.
 
 CONFIRMED PARTICIPANTS/SPEAKERS/PANELISTS (TBC)
 
-
 Michael R. Douglas, Stony Brook University
 Mario Carneiro, Chalmers University and University of Gothenburg
 Simon Frieder, University of Oxford
