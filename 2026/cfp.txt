@@ -42,29 +42,43 @@ oriented. AITP'26 is planned as an in-person conference.
 
 CONFIRMED PARTICIPANTS/SPEAKERS/PANELISTS (TBC)
 
-João Araújo, Universidade Nova de Lisboa
+
 Michael R. Douglas, Stony Brook University
-Mario Carneiro, Chalmers University
-Thibault Gauthier, Czech Technical University in Prague
+Mario Carneiro, Chalmers University and University of Gothenburg
+Simon Frieder, University of Oxford
+Thibault Gauthier, AI4REASON
+Ben Goertzel, SingularityNET
 Georges Gonthier, INRIA
-Thomas C. Hales, University of Pittsburgh
 Sean Holden, University of Cambridge
 Jan Jakubuv, Czech Technical University in Prague
-Mikoláš Janota, University of Lisbon
-Moa Johansson, Chalmers University
+Mikoláš Janota, Czech Technical University in Prague
+Moa Johansson, Chalmers University and University of Gothenburg
+Cezary Kaliszyk, University of Melbourne
 Peter Koepke, University of Bonn
 Konstantin Korovin, The University of Manchester
 Michael Kinyon, University of Denver
 Miroslav Olsak, University of Cambridge
-Michael Rawson, TU Wien, Austria, 
+Auguste Poiroux, EPFL and Math Inc
+Aarne Ranta, Chalmers University and University of Gothenburg
+Michael Rawson, University of Southampton, UK
 Stephan Schulz, DHBW Stuttgart
 Martin Suda, Czech Technical University in Prague
-Josef Urban, Czech Technical University in Prague
-Adam Vandervorst, Qoba.ai
+Christian Szegedy, AletheAI
+Josef Urban, AI4REASON and University of Gothenburg
 Robert Veroff, University of New Mexico
-Petr Vojtěchovský, University of Denver
-Sean Welleck, Carnegie Mellon University
+Andrei Voronkov, Easychair and University of Manchester
 Zsolt Zombori, Alfréd Rényi Institute of Mathematics
+
+
+INVITED TALKS (TBC)
+
+Simon Frieder, AIMO and all that (TBC)
+Ben Goertzel, TBA
+Michael Kinyon, TBA
+Auguste Poiroux, (Auto-)Formalization of the Fields Medal Sphere Packing Results (TBC)
+Christian Szegedy, TBA
+Robert Veroff, Automating the search for proofs of open conjectures
+Andrei Voronkov, TBA
 
 
 CONTRIBUTED TALKS
@@ -85,24 +99,27 @@ Conference: August 31 - September 5, 2026
 
 PROGRAM COMMITTEE (TBC)
 
+Guillaume Baudart, INRIA
+David Cerna, Czech Academy of Sciences
 Michael R. Douglas (co-chair), Stony Brook University
 Ulrich Furbach, University of Koblenz
 Thibault Gauthier, Czech Technical University in Prague
+Aishik Ghosh, Georgia Tech
+Georges Gonthier, INRIA
 Thomas C. Hales (co-chair), University of Pittsburgh
 Sean Holden, University of Cambridge
-Mikoláš Janota, University of Lisbon
-Moa Johansson, Chalmers University
+Mikoláš Janota, Czech Technical University in Prague
+Moa Johansson, Chalmers University and University of Gothenburg
 Cezary Kaliszyk (co-chair), University of Melbourne
 Michael Kinyon, University of Denver
+Peter Koepke, University of Bonn
 Konstantin Korovin, The University of Manchester
-Mirek Olsak, University of Cambridge
 Bartosz Piotrowski, IDEAS NCBR
-Michael Rawson, TU Wien
+Michael Rawson (co-chair), University of Southampton, UK
 Stephan Schulz (co-chair), DHBW Stuttgart
 Sho Sonoda, RIKEN AIP
 Martin Suda, Czech Technical University in Prague
-Josef Urban (co-chair), Czech Technical University in Prague
-Sean Welleck, Carnegie Mellon University
+Josef Urban, AI4REASON and University of Gothenburg
 Zsolt Zombori, Alfréd Rényi Institute of Mathematics
 
 
@@ -116,7 +133,7 @@ Parrachée", one of the highest peaks of La Vanoise, Aussois is located
 on a sunny plateau at 1500 m altitude, offering a magnificent panorama
 of the surrounding mountains and a direct access to the park of La
 Vanoise in summer and downhill ski slopes or cross country slopes in
-winter. The total price for accommodation, food and registration for
+winter. The total price for accommodation, full board and registration for
 the five days will be around 650 EUR.
 
 ARRIVAL/DEPARTURE
